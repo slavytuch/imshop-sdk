@@ -1,0 +1,13 @@
+{
+  "name": "slavytuch/imshop-sdk",
+  "autoload": {
+    "psr-4": {
+      "Slavytuch\\ImshopSdk\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=8.1",
+    "spatie/laravel-data": "^3.6",
+    "vlucas/phpdotenv": "^5.5"
+  }
+}

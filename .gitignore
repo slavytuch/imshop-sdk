@@ -1,0 +1,6 @@
+vendor
+*.log
+*.txt
+.env
+
+.idea
